@@ -15,7 +15,7 @@
 ## Set Up For Development
 
 
-Pre-requiste you should have node installed and setup complted on your system to run AILOEC on your local system 
+Pre-requiste you should have node installed and setup complted on your system to run this website on your local system 
 
 ```
 $ npm install 
